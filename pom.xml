@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>bk.pgsu.am</groupId>
 	<artifactId>ws-pgsu-backend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ws-pgsu-backend</name>
 	<description>Web Service Plataforma Gestion Salon Unisex Agustina Mecha</description>
 
